@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"E:/Users/Seb/Desktop/test/Day13_OpenGl/Content/ball_4.png","E:/Users/Seb/Desktop/test/Day13_OpenGl/Content/bin/DesktopGL/Content/ball_4.xnb","TextureProcessor","Texture2DContent",282,4181,0.12501
+"E:/Users/Seb/Desktop/test/Day13_OpenGl/Content/block_2.png","E:/Users/Seb/Desktop/test/Day13_OpenGl/Content/bin/DesktopGL/Content/block_2.xnb","TextureProcessor","Texture2DContent",261,4181,0.0156254
+"E:/Users/Seb/Desktop/test/Day13_OpenGl/Content/empty_0.png","E:/Users/Seb/Desktop/test/Day13_OpenGl/Content/bin/DesktopGL/Content/empty_0.xnb","TextureProcessor","Texture2DContent",151,4181,0
+"E:/Users/Seb/Desktop/test/Day13_OpenGl/Content/font.spritefont","E:/Users/Seb/Desktop/test/Day13_OpenGl/Content/bin/DesktopGL/Content/font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,70673,0.234375
+"E:/Users/Seb/Desktop/test/Day13_OpenGl/Content/paddle_3.png","E:/Users/Seb/Desktop/test/Day13_OpenGl/Content/bin/DesktopGL/Content/paddle_3.xnb","TextureProcessor","Texture2DContent",173,4181,0.0156261
+"E:/Users/Seb/Desktop/test/Day13_OpenGl/Content/wall_1.png","E:/Users/Seb/Desktop/test/Day13_OpenGl/Content/bin/DesktopGL/Content/wall_1.xnb","TextureProcessor","Texture2DContent",184,4181,0

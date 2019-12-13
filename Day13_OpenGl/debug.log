@@ -1,0 +1,1 @@
+[1213/121147.975:INFO:CONSOLE(9)] "Uncaught (in promise) TypeError: Cannot read property 'MethodInfo' of null", source: file:///C:/users/seb/appdata/local/microsoft/visualstudio/16.0_91b38d72/extensions/3ovm2p2v.fth/Content/PerformanceView/init.js?112ff22b32bd2561363 (9)
